@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../class demo/exer"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../2024-05-20"
+		},
+		{
+			"path": "../../class demo"
+		},
+		{
+			"path": "../../course-demo"
+		},
+		{
+			"path": "../../darkpan-1.0.0"
+		},
+		{
+			"path": "../../exer-class"
+		},
+		{
+			"path": "../../GIT-PROJ"
+		},
+		{
+			"path": "../../HOME-DEMO"
+		},
+		{
+			"path": "../../ofppt"
+		},
+		{
+			"path": "../../ofppt-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "To-Do List"
+	}
+}
